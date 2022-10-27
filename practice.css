@@ -1,0 +1,32 @@
+.container{
+    margin:auto;
+    height:100%;
+    width:80%;
+    border: 1px solid black;
+}
+.header {
+ box-sizing:border-box;
+    width: 100%;
+    padding: 10px;
+    border-bottom: 1px solid black;
+    height: 10%
+}
+.content{
+    border-bottom: 1px solid black;
+    width:100%
+}
+.left-content {
+    float: left;
+    width: 49%;
+    border-right: 1px solid black;
+}
+.right-content {
+    float: right;
+    width: 49%;
+}
+.footer {
+    clear:both;
+    padding: 10px;
+    border: 1px solid black;
+    height: 9%;
+}
