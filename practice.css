@@ -16,6 +16,7 @@
     width:100%
 }
 .left-content {
+    background-color: green;
     float: left;
     width: 49%;
     border-right: 1px solid black;
@@ -25,6 +26,7 @@
     width: 49%;
 }
 .footer {
+
     clear:both;
     padding: 10px;
     border: 1px solid black;
