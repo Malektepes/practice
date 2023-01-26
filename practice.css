@@ -8,7 +8,6 @@
  box-sizing:border-box;
     width: 100%;
     padding: 10px;
-    border-bottom: 1px solid black;
     height: 10%
 }
 .content{
@@ -27,6 +26,6 @@
 .footer {
     clear:both;
     padding: 10px;
-    border: 1px solid black;
+    border-top: 1px solid black;
     height: 9%;
 }
